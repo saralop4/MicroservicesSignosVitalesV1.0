@@ -1,0 +1,1 @@
+alter table notas_enfermeria add  estado_conciencia bit null
